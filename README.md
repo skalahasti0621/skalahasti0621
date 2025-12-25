@@ -30,7 +30,9 @@ Create and maintain internal Ops tools.
 My superpowers include:
 
 Reading stack traces like mystery novels.
-Making images and videos faster than you thought possible
-Saying “this is expected behavior” and actually meaning it
+
+Making images and videos faster than you thought possible.
+
+Saying “this is expected behavior” and actually meaning it.
 
 Powered by APIs, logs, and just enough coffee.
